@@ -13,8 +13,4 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Java Script" align="center">
 </div><br/>
 
-![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-
-![Snake animation](https://github.com/arielrodriguess/arielrodriguess/blob/output/github-contribution-grid-snake.svg)
-
 Buscando ser um Desenvolvedor Web de sucesso!
